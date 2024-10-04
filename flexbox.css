@@ -1,0 +1,15 @@
+.flexbox{
+    display: flex;
+    align-items: stretch;
+    background-color: green;
+}
+.flexbox>div{
+    background-color: darkorange;
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 70px;
+    font-size: 30px;
+    color:#fff;
+
+}
